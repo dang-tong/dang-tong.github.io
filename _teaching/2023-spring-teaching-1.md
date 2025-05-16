@@ -3,7 +3,7 @@ title: "Orbital Dynamics of Spacecraft"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
-venue: "USTC, Spring"
+venue: "USTC, Spring, 2023/2024/2025"
 date: 2023-03-01
 location: "Hefei, China"
 ---
