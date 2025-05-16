@@ -24,12 +24,12 @@ School of Earth and Space Sciences, University of Science and Technology of Chin
 
 Funded Research
 ======
-1. Investigation of the coupling between ionosphere and middle-upper atmosphere and the related escape processes at Mars, PI, NSFC, 2023-2026
-1. Investigation of the solar eclipse effect on the coupled ionosphere-thermosphere-magnetosphere system, PI, NSFC, 2022-2025
-1. Investigation of the effect of polar tongue of ionization on the thermosphere during geomagnetic storms, PI, NSFC, 2020-2022
-1. High-resolution simulation of the coupled magnetosphere-ionosphere-thermosphere system, PI, National Postdoctoral Program for Innovative Talents, 2018-2020
-1. High-resolution simulations on the polar ionospheric response to geomagnetic storms, PI, China Postdoctoral Science Foundation, 2018-2020
-1. Meso-scale structures of polar ionosphere during geomagnetic storms, PI, Fundamental Research Funds for the Central Universities, 2019-2020
+1. Investigation of the coupling between ionosphere and middle-upper atmosphere and the related escape processes at Mars, PI
+1. Investigation of the solar eclipse effect on the coupled ionosphere-thermosphere-magnetosphere system, PI
+1. Investigation of the effect of polar tongue of ionization on the thermosphere during geomagnetic storms, PI
+1. High-resolution simulation of the coupled magnetosphere-ionosphere-thermosphere system, PI
+1. High-resolution simulations on the polar ionospheric response to geomagnetic storms, PI
+1. Meso-scale structures of polar ionosphere during geomagnetic storms, PI
 
 Publications
 ======
