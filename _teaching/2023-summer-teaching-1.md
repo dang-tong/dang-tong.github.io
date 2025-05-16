@@ -3,7 +3,7 @@ title: "Practices of Space Detection"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1
-venue: "USTC, Summer"
+venue: "USTC, Summer, 2023/2024/2025"
 location: "Mohe, China"
 date: 2023-07-01
 ---
