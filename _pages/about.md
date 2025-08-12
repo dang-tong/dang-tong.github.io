@@ -17,5 +17,5 @@ Currently I focus mostly on the modeling the space environment of planets. We ha
 Prospective students and postdocs
 ======
 Students from majors of space physics, astronomy, physics, atmospheric physics, and computer science are welcome. I hope you have solid background of physics, broad interest in planetary science and computer programming, and the spirit of self-motivation. 
-We are also seeking postdoctoral researchers with a strong research background in Space & Planetary Sciences. Expertise in modeling/simulation or observational analysis is essential. The successful candidate will conduct research in our focus areas (Earth and planetary ionosphere-magnetosphere coupling), collaborating on team projects.
+We are also seeking postdoctoral researchers with a strong research background in space & planetary Sciences. Expertise in observational or simulation analysis is essential. The successful candidate will conduct research in our focus areas (Earth and planetary ionosphere-magnetosphere coupling), collaborating on team projects.
 We can get together to do something new and exciting.
