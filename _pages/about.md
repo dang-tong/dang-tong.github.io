@@ -12,7 +12,7 @@ Hi! I’m Tong, a space and planetary physics scientist at the University of Sci
 
 My work and research
 ======
-Currently I focus mostly on the modeling the space environment of planets. We have carries out a series of magnetosphere-ionosphere models of the Earth, Venus, Mars, and in the future exoplanets. Our models have the capability of capturing high-resolution structures such as Kelvin-Helmholtz instability. We are also comparing observations such as "Tianwen-1" and other ongoing satellites to advance our understanding of the planetary physics.
+Currently I focus on the modeling the space environment of Earth and planets. We have carries out a series of magnetosphere-ionosphere models of the Earth, Venus, Mars, and in the future exoplanets. Our models have the capability of capturing high-resolution structures such as Kelvin-Helmholtz instability. We are also comparing observations such as "Tianwen-1" and other ongoing satellites to advance our understanding of the planetary physics.
 
 Prospective students and postdocs
 ======
